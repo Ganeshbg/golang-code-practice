@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import (
 	"fmt"
@@ -27,4 +27,4 @@ func main() {
 	}else {
 		fmt.Println("Found")
 	}
-}
+}*/
